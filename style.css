@@ -25,3 +25,11 @@ p {
     gap: 10px;
     align-items: center;
 }
+
+.footer {
+    margin: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
