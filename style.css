@@ -1,5 +1,6 @@
 body {
     font-family: monospace;
+    font-size: 18px;
 }
 
 p {
@@ -26,10 +27,16 @@ p {
     align-items: center;
 }
 
+#main_div {
+    width: fit-content;
+    margin: 0 auto;
+}
+
 .footer {
-    margin: 10px;
+    width: 290px;
+    box-sizing: border-box;
+    margin: 10px auto;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
 }
-
